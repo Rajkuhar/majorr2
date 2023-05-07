@@ -44,16 +44,8 @@ $ cd repsonsive-website-playstation
 
 ---
 
-<br/>
-
-## 📝 Licença:
-
-This project is under license. see the file [LICENSE](LICENSE.md) for more details.
-
-<br/>
-
 ---
 
 <br/>
 
-<p align="center"> Developed by <a href="https://www.linkedin.com/in/kennedybarros/">Kennedy Barros</a> ✌🏼</p>
+<p align="center"> Developed by <a href="[https://www.linkedin.com/in//](https://www.linkedin.com/in/rajneesh-8624b51aa/)">Rajneesh</a> ✌🏼</p>
